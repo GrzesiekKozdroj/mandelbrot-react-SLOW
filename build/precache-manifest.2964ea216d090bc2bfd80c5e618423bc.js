@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6ff29114651c0b98e347f859b6cc7dc",
+    "revision": "54b942bba48c36435e4ab5444251fbfd",
     "url": "/mandelbrot-react-SLOW/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mandelbrot-react-SLOW/static/js/2.416b2ee6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a85a76d37442adcbf58c",
-    "url": "/mandelbrot-react-SLOW/static/js/main.d86d0cfb.chunk.js"
+    "revision": "5c592eaa907117a1ceb6",
+    "url": "/mandelbrot-react-SLOW/static/js/main.f36fbf02.chunk.js"
   },
   {
     "revision": "69eb6f058fe7cd94c7e8",

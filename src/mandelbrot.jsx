@@ -18,8 +18,8 @@ class MakeMandelbrotSet extends Component {
     }
     componentDidMount() {
     const canvas = this.canvasRef.current
-    canvas.width = window.innerWidth -3
-    canvas.height = window.innerHeight -3
+    canvas.width = window.innerWidth
+    canvas.height = window.innerHeight
     const ctx = canvas.getContext('2d')  //// 3 - access node using .current
       // Start drawing
     setTimeout(()=>{

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/mandelbrot-react-SLOW/static/js/main.d86d0cfb.chunk.js",
-    "main.js.map": "/mandelbrot-react-SLOW/static/js/main.d86d0cfb.chunk.js.map",
+    "main.js": "/mandelbrot-react-SLOW/static/js/main.f36fbf02.chunk.js",
+    "main.js.map": "/mandelbrot-react-SLOW/static/js/main.f36fbf02.chunk.js.map",
     "runtime-main.js": "/mandelbrot-react-SLOW/static/js/runtime-main.ffb396af.js",
     "runtime-main.js.map": "/mandelbrot-react-SLOW/static/js/runtime-main.ffb396af.js.map",
     "static/js/2.416b2ee6.chunk.js": "/mandelbrot-react-SLOW/static/js/2.416b2ee6.chunk.js",
     "static/js/2.416b2ee6.chunk.js.map": "/mandelbrot-react-SLOW/static/js/2.416b2ee6.chunk.js.map",
     "index.html": "/mandelbrot-react-SLOW/index.html",
-    "precache-manifest.c4510f5b9a1ea003df81c37ec17a3480.js": "/mandelbrot-react-SLOW/precache-manifest.c4510f5b9a1ea003df81c37ec17a3480.js",
+    "precache-manifest.2964ea216d090bc2bfd80c5e618423bc.js": "/mandelbrot-react-SLOW/precache-manifest.2964ea216d090bc2bfd80c5e618423bc.js",
     "service-worker.js": "/mandelbrot-react-SLOW/service-worker.js",
     "static/js/2.416b2ee6.chunk.js.LICENSE.txt": "/mandelbrot-react-SLOW/static/js/2.416b2ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ffb396af.js",
     "static/js/2.416b2ee6.chunk.js",
-    "static/js/main.d86d0cfb.chunk.js"
+    "static/js/main.f36fbf02.chunk.js"
   ]
 }
