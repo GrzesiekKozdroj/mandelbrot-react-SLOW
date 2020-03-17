@@ -6,5 +6,5 @@ to see "working" example please visit:
 https://grzesiekkozdroj.github.io/mandelbrot-react-SLOW/
 
 it takes 12 seconds on my laptop to render image. It may take shorter or longer on your machine.
-![wait img](https://raw.githubusercontent.com/GrzesiekKozdroj/mandelbrot-react-SLOW/master/Screenshot%20from%202020-03-16%2018-02-17.png)
 ![set img](https://raw.githubusercontent.com/GrzesiekKozdroj/mandelbrot-react-SLOW/master/Screenshot%20from%202020-03-16%2018-02-10.png)
+![wait img](https://raw.githubusercontent.com/GrzesiekKozdroj/mandelbrot-react-SLOW/master/Screenshot%20from%202020-03-16%2018-02-17.png)
